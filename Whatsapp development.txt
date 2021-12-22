@@ -7,3 +7,5 @@ Author : Srividhya
 2. Chat box code available
 
 3. Privacy code available
+
+4. Hiding Last seen code available
